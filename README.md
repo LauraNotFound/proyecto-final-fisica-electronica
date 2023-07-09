@@ -8,3 +8,4 @@ Proyecto realizado por estudiantes de la facultad de ingeniería de sistemas e i
  - RUPAYA ESPINOZA JOSE ANDRES
  
  
+![foto de portada](https://github.com/LauraNotFound/proyecto-final-fisica-electronica/assets/125788047/e668d4ef-028a-41cd-b474-5825a57bc78a)
